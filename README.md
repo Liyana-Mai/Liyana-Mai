@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and curr
 
 - 🌟 Interests: Software development, JavaScript, web technologies, and building cool projects.
 - 📚 Currently Learning: Advanced JavaScript concepts including async programming, generators, and advanced patterns.
-- 🎓 Goal: To become a Software Developer, proficient in JavaScript and contribute to meaningful open-source projects.
+- 🎓 Goal: To become a Software Developer, proficient in JavaScript and contribute to meaningful open-source projects and solving real life problems.
 
 # What I’m Working On
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about software development and curr
 
 # How to Reach Me
 
-- 📧 Email: your.email@example.com
+- 📧 Email: liyanamaisela@gmail.com
 - 🌐 LinkedIn: linkedin.com/in/liyana-maisela/
 
 
